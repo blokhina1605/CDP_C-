@@ -1,0 +1,11 @@
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\cdp_project.dll.config
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\cdp_project.dll
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\cdp_project.pdb
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\nunit.framework.dll
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\WebDriver.dll
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\WebDriver.Support.dll
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\nunit.framework.xml
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\WebDriver.xml
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\bin\Debug\WebDriver.Support.xml
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\obj\Debug\cdp_project.dll
+C:\Users\yevheniia_blokhina\Documents\Visual Studio 2015\Projects\cdp_project\cdp_project\obj\Debug\cdp_project.pdb

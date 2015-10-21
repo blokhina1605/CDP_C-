@@ -18,9 +18,6 @@ namespace cdp_project
         private static String LOGIN = ConfigurationManager.AppSettings["loginFB"];
         private static String PSW = ConfigurationManager.AppSettings["passwordFB"];
 
-        private static String BAD_LOGIN = "lal";
-        private static String BAD_PSW = "psw";
-
         [SetUp]
         public void SetUp()
         {
